@@ -12,5 +12,5 @@
 * git remote add origin https://github.com/Kuk5835512071/Homework.git เมื่อยังไม่มี remote repository ให้เพิ่มเข้าไปโดยบอกที่อยู่ url ของ repository
 * git remote -v แสดง remote repository 
 * git push -u origin master เป็นคำสั่งที่ใช้ในการส่งโค๊ดจากเครื่อง local ไปที่ Github
-##FACEBOOK
+## FACEBOOK
 https://web.facebook.com/natdanai.krainukun
